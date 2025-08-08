@@ -1,0 +1,17 @@
+.form{
+    margin-left: 500px;
+    height: 650px;
+    width: 400px;
+    background-color: rgb(123, 112, 96);
+    color: aliceblue;
+    border-radius: 30px;
+}
+.kaydet{
+    margin-left: 150px;
+    width: 80px;
+    height: 30px;
+    background-color: rgb(21, 143, 21);
+    color: azure;
+    border-color: darkgray;
+    border-radius: 10px;
+}
